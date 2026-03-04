@@ -1,0 +1,65 @@
+#MANUAL
+Bienvenido al Traductor Modular de Cómics, una herramienta integral de escritorio diseñada para la limpieza, extracción y traducción de texto en imágenes de forma automatizada y manual.
+
+1. Instalación y Puesta en Marcha
+Al tratarse de un ejecutable de Windows (.exe), el programa contiene todas las dependencias necesarias.
+
+Ejecución: Haz doble clic en el icono de TraductorComics.exe.
+
+Carga de Recursos: En el primer inicio, el ejecutable verificará la presencia de los modelos de IA (EasyOCR). Si no están presentes, se descargarán automáticamente en la carpeta del sistema.
+
+Interfaz Principal: Se abrirá una ventana limpia con un panel de control lateral y un área de visualización central.
+
+2. Carga y Gestión de Archivos
+Botón [Abrir Imagen]: Abre el explorador de Windows. Selecciona cualquier archivo .jpg, .png o .bmp.
+
+Ajuste Automático: El ejecutable redimensionará visualmente la imagen para que encaje en tu monitor, manteniendo siempre la resolución original internamente para no perder calidad en la traducción.
+
+3. Modos de Operación Inteligente
+A. Escaneo Total (Auto Run)
+Es el motor principal del ejecutable. Al pulsar "Auto Run":
+
+El software realiza un barrido de IA sobre toda la página.
+
+Detecta globos de texto, limpia el ruido visual y superpone la traducción directamente sobre el dibujo original.
+
+Uso ideal: Para procesar páginas completas con tipografía clara en pocos segundos.
+
+B. Filtro Dinámico (Modo B/N)
+Este interruptor activa un motor de pre-procesamiento de imagen avanzado.
+
+Función: Elimina tramas de manga, sombras grises y líneas de fondo (como libros o texturas) que confunden al lector de texto.
+
+Uso ideal: Imprescindible para Mangas japoneses o cómics antiguos con papel amarillento.
+
+4. Herramienta de Precisión (Modo Manual)
+Si el proceso automático ignora un texto o lo lee con errores, el ejecutable permite la intervención directa:
+
+Selección: Haz clic y arrastra sobre el área deseada para crear un recuadro de selección.
+
+Editor Emergente: Al soltar, el ejecutable abrirá una ventana de edición rápida.
+
+Intervención: Aquí podrás corregir el texto detectado (Original) y ajustar la traducción (Destino) a tu gusto.
+
+Confirmación: Al pulsar "Aceptar", el cambio se aplica instantáneamente y se añade a la memoria del programa.
+
+5. Funciones de Edición y Rescate
+Botón [Deshacer / Undo]: El ejecutable mantiene un historial de acciones. Si una traducción no te convence o el recuadro manual quedó mal posicionado, este botón revierte la imagen a su estado anterior sin perder el resto del trabajo.
+
+Consola de Estado: En la parte inferior, el programa te indicará en qué fase se encuentra (Ej: "Traduciendo bloque 3..." o "Error de conexión").
+
+6. Sistema de Exportación de Resultados
+Al finalizar tu sesión de trabajo, el ejecutable permite generar un reporte de texto:
+
+Haz clic en "Exportar Texto".
+
+El programa generará automáticamente un archivo de texto plano (.txt) en la misma carpeta donde se encuentra el .exe.
+
+Formato del reporte: El archivo incluye el índice de bloques, el texto original limpio y la traducción final aplicada, ideal para revisores o para guardar un guion bilingüe del cómic.
+
+7. Requisitos del Sistema
+Sistema Operativo: Windows 10 o superior (64 bits).
+
+Hardware: Se recomienda un mínimo de 8GB de RAM. El ejecutable detectará automáticamente si posees una tarjeta gráfica NVIDIA para acelerar el proceso mediante tecnología CUDA.
+
+Conexión: Se requiere acceso a internet para las consultas al motor de traducción.
