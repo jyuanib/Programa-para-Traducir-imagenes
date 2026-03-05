@@ -1,4 +1,4 @@
-# Aplicaci-n-de-Traductor-de-imagenes
+# Aplicacion-de-Traducción-de-imagenes
 Este programa es una herramienta de escritorio diseñada para la extracción, traducción y limpieza de texto en imágenes (especialmente cómics y mangas), con soporte para procesamiento automático y corrección manual.
 
 1. Interfaz Principal (GUI)
