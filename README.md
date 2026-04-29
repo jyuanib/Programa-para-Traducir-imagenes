@@ -61,9 +61,12 @@ The `TranslatorLogic` module handles the bridge between image data and linguisti
 *   **Punctuation Protection:** Specialized regex logic ensures that ellipses (...) and unique symbols are preserved during the translation round-trip.
 *   **Dynamic Font Scaling:** Automatically calculates the optimal font size to ensure the translated text fits perfectly within the detected or selected bubble.
 *   **Automatic Cleaning:** Automatically fixes common OCR errors, such as replacing sequences of underscores (`____`) with proper ellipses.
+  
+---
 
-## Technical Documentation
-[Technical Documentation](https://github.com/jyuanib/Programa-para-Traducir-imagenes/blob/main/docs/index.html
+## 🌐 Online Documentation
+The professional technical documentation is available at:
+[View Documentation Online](https://jyuanib.github.io/Programa-para-Traducir-imagenes/index.html)
 
 ---
 
