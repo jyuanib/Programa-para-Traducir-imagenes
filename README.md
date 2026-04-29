@@ -1,7 +1,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OCR: EasyOCR](https://img.shields.io/badge/OCR-EasyOCR-orange.svg)](https://github.com/JaidedAI/EasyOCR)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](programa-para-traducir-imagenes-gsyke6cmwqcrjvmrappe8fr)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://programa-para-traducir-imagenes-gsyke6cmwqcrjvmrappe8fr.streamlit.app)
 
 An advanced desktop solution for **automated text extraction, translation, and image inpainting**. Specifically optimized for visual storytelling media like comics and manga, this tool bridges the gap between raw foreign-language assets and localized digital content using AI-driven workflows.
 
