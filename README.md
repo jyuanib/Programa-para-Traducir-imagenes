@@ -63,6 +63,10 @@ The `TranslatorLogic` module handles the bridge between image data and linguisti
 *   **Automatic Cleaning:** Automatically fixes common OCR errors, such as replacing sequences of underscores (`____`) with proper ellipses.
   
 ---
+## linkedin
+[My linkedin](https://www.linkedin.com/in/jose-luis-yuani-barea-17b745351)
+
+---
 
 ## 🌐 Online Documentation
 The professional technical documentation is available at:
