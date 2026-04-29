@@ -62,6 +62,9 @@ The `TranslatorLogic` module handles the bridge between image data and linguisti
 *   **Dynamic Font Scaling:** Automatically calculates the optimal font size to ensure the translated text fits perfectly within the detected or selected bubble.
 *   **Automatic Cleaning:** Automatically fixes common OCR errors, such as replacing sequences of underscores (`____`) with proper ellipses.
 
+## Technical Documentation
+
+
 ---
 
 ## 💾 Data Management & Export
